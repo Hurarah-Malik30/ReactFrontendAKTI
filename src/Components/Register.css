@@ -1,0 +1,9 @@
+h2{color: white;
+padding-top: 10px;
+font-family: 'Courier New', Courier, monospace;
+text-decoration: underline;}
+.unknown{margin-top: 50px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+background-color: #040F16;}

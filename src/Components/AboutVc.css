@@ -1,0 +1,33 @@
+.courses{background-color: #0C0A3E;
+    margin-top: 70px;
+    color: white;}
+    #newCourse{text-align: center;
+    text-decoration: underline;
+    font-weight: bold;}
+    #offer{margin-left: 100px;
+    font-weight: bold;}
+    #more{
+        font-weight: bold;
+    margin-left: 400px;}
+    .newList{margin-left: 200px;}
+    #short{margin-left: 850px;
+    margin-top: -140px;}
+    .vice {background-color: gray;
+        margin-top: 80px;}
+        p{margin-left: 10px;
+        color: white;}
+        p span#bold{font-weight: bold;
+        text-decoration: underline;
+        color: black;}
+        p span.newArea{margin-left: 100px;
+        font-weight: bold ;
+        color: black;}
+        p span.newBay{margin-left: 150px;
+        font-weight: bold;
+        color: black;}
+        #gta{text-align: center;
+        text-decoration: underline;
+        font-weight: bold;}
+        img{margin-left: 900px;
+        margin-top: -150px;}
+        
